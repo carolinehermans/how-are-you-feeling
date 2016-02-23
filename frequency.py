@@ -1,7 +1,3 @@
-def notInTop(word, topTenHunt):
-    for elem in topTenHunt:
-        if (word==elem[0]): return False
-    return True
 
 hunt = """It's too difficult to find a good job! But I will try my best. 
 
@@ -185,7 +181,11 @@ THUG LIFE!
 
 """
 
-
+def notInTop(word, top):
+    for elem in top:
+        if (word==elem[0]): return False
+    return True
+    
 oldHuntWords = hunt.split()
 huntWords = []
 for word in oldHuntWords:
