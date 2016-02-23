@@ -68,6 +68,8 @@ that, have, do, are, life, just, like, be, about, you
 ##What's next?
 Collect more responses in more ways. I'm thinking of doing in person interviews, or going out in other parts of Pittsburgh to collect data from more than just Carnegie Mellon students.
 
+I also want to find a more nuanced sentiment analysis library and look into more ways to analyze the responses I have.
+
 ##Can I read the responses?
 Yep! They're in two files, fb.txt contains the Facebook responses, and hunt.txt contains the Hunt Library responses.
 
