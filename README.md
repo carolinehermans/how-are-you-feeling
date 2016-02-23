@@ -3,7 +3,7 @@
 ## What is this?
 A fun experiemnt of mine!
 
-Over my past semester at school, I've beem amassing anonymous responses to the question "how are you feeling?" and I thought it would be really interesting to analyze them.
+Over my past semester at school, I've beem amassing anonymous responses to the question "how are you feeling?" and now, the time has come to start analyzing them.
 
 Technically, this is a project for my bookbinding class.
 
