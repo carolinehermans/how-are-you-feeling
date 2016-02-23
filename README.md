@@ -1,7 +1,7 @@
 # How Are You Feeling?
 
 ## What is this?
-A fun experiemnt of mine!
+A little experiment.
 
 Over my past semester at school, I've beem amassing anonymous responses to the question "how are you feeling?" and now, the time has come to start analyzing them.
 
