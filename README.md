@@ -1,8 +1,6 @@
 # How Are You Feeling?
 
 ## What is this?
-A little experiment.
-
 Over my past semester at school, I've beem amassing anonymous responses to the question "how are you feeling?". I thought it would be interesting to analyze those responses to see how people respond under different conditions.
 
 Technically, this is a project for my bookbinding class.
