@@ -18,8 +18,8 @@ I decided it'd be interesting to try other methods as well, so I posted on Faceb
 I'm still working on it. The word frequency analysis is probably the coolest part. I ran some sentiment analysis on it, but I'm looking to use more sophisticated technologies going forward. Namely, the library that I used tended to miss out on the more nuanced posts about depression and illness, and instead pick up on one-word "negative" posts like "Sick" or "Bad". 
 
 Here's what I've found so far:
-### Sentiment Analysis
-#####Hunt Library
+#### Sentiment Analysis
+######Hunt Library
 Number of responses analyzed: 96
 
 Average response length: 56 characters
@@ -37,7 +37,7 @@ Most negative response: This assignment is bad. It sucks!
 Most positive response: Awesome!
 
 
-#####Facebook
+######Facebook
 Number of responses analyzed: 81
 
 Average response length: 69 characters
@@ -54,14 +54,14 @@ Most negative response: Sick
 
 Most positive response: To not do 213 and instead end up playing Skyrim till 6am: awesome. 
 
-## Word Frequency
+#### Word Frequency
 ###### Hunt Library Most Frequent Words
 feel, +1, have, need, do, she, will, about, was, you
 
 ###### Facebook Most Frequent Words
 with, do, are, life, stressed, just, like, some, on, you
 
-#### All Responses Most Frequent Words
+###### All Responses Most Frequent Words
 that, have, do, are, life, just, like, be, about, you
 
 
