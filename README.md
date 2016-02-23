@@ -1,5 +1,4 @@
 # How Are You Feeling?
-Analyzing anonymous responses
 
 ## What is this?
 A fun experiemnt of mine!
