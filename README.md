@@ -17,74 +17,9 @@ I decided it'd be interesting to try other methods as well, so I posted on Faceb
 ##How's the analysis going?
 I'm still working on it. The word frequency analysis is probably the coolest part. I ran some sentiment analysis on it, but I'm looking to use more sophisticated technologies going forward. Namely, the library that I used tended to miss out on the more nuanced posts about depression and illness, and instead pick up on one-word "negative" posts like "Sick" or "Bad". 
 
-Here are my findings so far:
-
-## Word Frequency
-#### Hunt Library Most Frequent Words
-feel, 8
-
-+1, 9
-
-have, 7
-
-need, 5
-
-do, 6
-
-she, 5
-
-will, 5
-
-about, 7
-
-was, 7
-
-you, 10
-
-#### Facebook Most Frequent Words
-with, 6
-
-do, 7
-
-are, 6
-
-life, 8
-
-stressed, 5
-
-just, 10
-
-like, 12
-
-some, 6
-
-on, 6
-
-you, 9
-
-#### All Responses Most Frequent Words
-that, 16
-
-have, 12
-
-do, 13
-
-are, 10
-
-life, 12
-
-just, 15
-
-like, 17
-
-be, 10
-
-about, 12
-
-you, 19
-
+Here's what I've found so far:
 ### Sentiment Analysis
-####Hunt Library
+#####Hunt Library
 Number of responses analyzed: 96
 
 Average response length: 56 characters
@@ -102,8 +37,7 @@ Most negative response: This assignment is bad. It sucks!
 Most positive response: Awesome!
 
 
-
-####Facebook
+#####Facebook
 Number of responses analyzed: 81
 
 Average response length: 69 characters
@@ -119,6 +53,17 @@ Percent of responses that were neutral: 0.395061728395
 Most negative response: Sick
 
 Most positive response: To not do 213 and instead end up playing Skyrim till 6am: awesome. 
+
+## Word Frequency
+###### Hunt Library Most Frequent Words
+feel, +1, have, need, do, she, will, about, was, you
+
+###### Facebook Most Frequent Words
+with, do, are, life, stressed, just, like, some, on, you
+
+#### All Responses Most Frequent Words
+that, have, do, are, life, just, like, be, about, you
+
 
 ##What's next?
 Collect more responses in more ways. I'm thinking of doing in person interviews, or going out in other parts of Pittsburgh to collect data from more than just Carnegie Mellon students.
