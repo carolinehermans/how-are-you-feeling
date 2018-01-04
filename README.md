@@ -14,12 +14,12 @@ The first thing I did was bought a blank notebook at the campus bookstore, and p
 
 I decided it'd be interesting to try other methods as well, so I posted on Facebook with a link to an anonymous Google Form with one question, "how are you feeling?". About 80 people filled it out.
 
-##How's the analysis going?
+## How's the analysis going?
 I'm still working on it. The word frequency analysis is probably the coolest part. I ran some sentiment analysis on it, but I'm looking to use more sophisticated technologies going forward. Namely, the library that I used tended to miss out on the more nuanced posts about depression and illness, and instead pick up on one-word "negative" posts like "Sick" or "Bad". 
 
 Here's what I've found so far:
 #### Sentiment Analysis
-######Hunt Library
+###### Hunt Library
 Number of responses analyzed: 96
 
 Average response length: 56 characters
@@ -37,7 +37,7 @@ Most negative response: This assignment is bad. It sucks!
 Most positive response: Awesome!
 
 
-######Facebook
+###### Facebook
 Number of responses analyzed: 81
 
 Average response length: 69 characters
